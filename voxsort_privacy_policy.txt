@@ -1,0 +1,18 @@
+Privacy Policy of VoxSort Diarization
+
+Thank you for using our software! This document is the main privacy policy for the VoxSort Diarization application.
+
+This Privacy Policy was published on 21th May 2017
+
+What information we collect
+
+The VoxSort Diarization program doesn’t collect any personal information.
+
+Android - Why we need some special permissions
+
+We use the RECORD_AUDIO permission to provide to You the dictaphone function only. The VoxSort Diarization doesn't collect, download or make copies of any recordings you make using the Application.
+
+Contact Us
+
+Integrated Wave Technologies
+mailto: integratedwavetechnologiesinc@gmail.com

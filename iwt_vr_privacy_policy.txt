@@ -1,0 +1,16 @@
+Privacy Policy of IWT Voice Recognizer Test
+===========================================
+
+Thank you for using our software! This document is the main privacy policy for the IWT Voice Recognizer Test Application.
+
+This Privacy Policy was published on 9th January 2020
+
+What information we collect
+===========================
+
+The IWT Voice Recognizer Test application doesn’t collect any personal information.
+
+Android - Why we need some special permissions
+==============================================
+
+We use the RECORD_AUDIO permission to provide to You main function - recognize test commands. The IWT Voice Recognizer Test doesn't collect, download or make copies of any recordings you make using the application. You able to send via e-mail (by your wish over your e-mail client application) collected test information, including recording started on last application run.
