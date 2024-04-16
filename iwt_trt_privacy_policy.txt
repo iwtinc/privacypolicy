@@ -1,0 +1,16 @@
+Privacy Policy of IWT TRT Police Language Translator
+===========================================
+
+Thank you for using our software! This document is the main privacy policy for the IWT TRT Police Language Translator Application.
+
+This Privacy Policy was published on April 16, 2024
+
+What information we collect
+===========================
+
+The IWT TRT Police Language Translator application doesn’t collect any personal information.
+
+Android - Why we need some special permissions
+==============================================
+
+We use the RECORD_AUDIO permission to provide to You write custom phrase. The IWT TRT Police Language Translator doesn't collect, download or make copies of any recordings you make using the application.
