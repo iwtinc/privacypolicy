@@ -14,3 +14,9 @@ Android - Why we need some special permissions
 ==============================================
 
 We use the RECORD_AUDIO permission to provide to You write custom phrase. The IWT TRT Police Language Translator doesn't collect, download or make copies of any recordings you make using the application.
+
+Contact Us
+
+Integrated Wave Technologies
+mailto: integratedwavetechnologiesinc@gmail.com
+
